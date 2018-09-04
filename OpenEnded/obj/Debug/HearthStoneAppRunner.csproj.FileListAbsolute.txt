@@ -1,0 +1,9 @@
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\bin\Debug\HearthStoneAppRunner.exe.config
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\bin\Debug\HearthStoneAppRunner.exe
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\bin\Debug\HearthStoneAppRunner.pdb
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.Properties.Resources.resources
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.csproj.GenerateResource.Cache
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.csproj.CoreCompileInputs.cache
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.exe
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.pdb
+C:\Users\Trekele\source\repos\HearthStoneAppRunner\obj\Debug\HearthStoneAppRunner.Forms.Configuration.resources
