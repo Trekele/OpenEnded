@@ -21,3 +21,17 @@ C:\Users\Trekele\source\repos\OpenEnded\bin\Debug\OpenEnded.exe.manifest
 C:\Users\Trekele\source\repos\OpenEnded\bin\Debug\OpenEnded.application
 C:\Users\Trekele\source\repos\OpenEnded\obj\Debug\OpenEnded.exe.manifest
 C:\Users\Trekele\source\repos\OpenEnded\obj\Debug\OpenEnded.application
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\bin\Debug\OpenEnded.exe.config
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\bin\Debug\OpenEnded.exe.manifest
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\bin\Debug\OpenEnded.application
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\bin\Debug\OpenEnded.exe
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\bin\Debug\OpenEnded.pdb
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.csprojResolveAssemblyReference.cache
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.Forms.Configuration.resources
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.Properties.Resources.resources
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.csproj.GenerateResource.Cache
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.csproj.CoreCompileInputs.cache
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.exe.manifest
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.application
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.exe
+C:\Users\Trekele\Documents\Visual Studio 2017\Projects\OpenEnded\OpenEnded\OpenEnded\obj\Debug\OpenEnded.pdb
